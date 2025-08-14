@@ -1,18 +1,14 @@
 # DSA-Project-2
-My second project in my tech learning journey  at the Incubator hub helped me deepen my knowledge of the Power BI for data cleaning, 
+My second project in my tech learning journey  at the Incubator hub helped me deepen my knowledge of Power BI for data cleaning, 
 modelling, visualisation, and reporting.
-
-# DSA-SQL-PROJECT
-Using the KULTRA MEGA STORE INVENTORY data set as a case study and project findings, for detailed analysis, informed decision making, and Business Intelligence.
-The project is a sequel to my tech learning journey at the INCUBATOR HUB, focusing on DBMS (Database Management System ), which includes data backup, both in the cloud and on-premises, its restoration process, and the usage of  SQL (Server Query Language ) Syntax, operators, Logic, and its inbuilt functions for analysis and other business intelligence.
 
  ## Topic: Palmora Group Human Resources Analysis
 
 ### Project Overview  
-This Project aims to provide insight using the presented data set to identify the Group Human Resorces department challenges, pay gaps and  to form the basis for increasing revenue (sales), recognizing valuable customer and product purchases and optimization of the most effective shipping mode at the Kultra Mega store.
+This Project  is set to perform an enquiry, identify obstacles and analyze different metrics available in the given data set, for insight and to form the basis for finding  the gender pay gap and distribution in the organization, regions and the departments that need management attention and if the Group meet the industrial minimum pay etc.
 
 ### Data Source 
-The Supplier of the Data for this project is The Incubator Hub, under the flagship program tagged DSA (Digital Skill-Up Africa) as a capstone project findings, and using the Kultra Mega Store Inventory as a  dataset
+The Supplier of the Data for this project is The Incubator Hub, under the flagship program tagged DSA (Digital Skill-Up Africa), as a capstone project findings, and using the Palmora Group HR Analysis  dataset
  
 ### Tools used 
 1. Microsoft SQL Server
