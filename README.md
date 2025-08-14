@@ -1,6 +1,5 @@
 # DSA-Project-2
-My second project in my tech learning journey  at the Incubator hub helped me deepen my knowledge of Power BI for data cleaning, 
-modelling, visualisation, and reporting.
+This project is a concluding part of my initial capstone project at the Incubator Hub, which formed as a pedestal in my tech learning journey. The project deepened my knowledge of Power BI for data cleaning, DAX, modelling, visualisation, and reporting.
 
  ## Topic: Palmora Group Human Resources Analysis
 
@@ -10,16 +9,8 @@ This Project  is set to perform an enquiry, identify obstacles and analyze diffe
 ### Data Source 
 The Supplier of the Data for this project is The Incubator Hub, under the flagship program tagged DSA (Digital Skill-Up Africa), as a capstone project findings, and using the Palmora Group HR Analysis  dataset
  
-### Tools used 
-1. Microsoft SQL Server
-   - for data Extraction from the database.
-   - for data archiving, preservation and feeder to the studio.
-2. Ms Server Studio
-   - for data query, usage of inbuilt functions and other analysis.
-   - for import and Export 
-   - Server as a source of data for other data analysis tools.
- 3. SQL Syntax and functions
-   - for the report and results
+### Tools use
+
   
 ### Data Cleaning and Preparation 
 At the initial phase of the Data cleaning and preparation, we perform the following actions using the import data application in the studio
