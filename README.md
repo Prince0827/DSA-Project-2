@@ -1,6 +1,6 @@
 # DSA-Project-2
 This project is the concluding part of my initial capstone project at the Incubator Hub; the two  served as a pedestal in my tech learning journey. 
-This second project, which I tagged DSA-Project 2, introduced and sharpened my knowledge of Power BI for data cleaning, DAX expressions, modelling, visualisation, and reporting.
+This second project, which I tagged DSA-Project 2, introduced and broadened  my knowledge  of  Power BI for data cleaning, DAX expressions, modelling, visualisation, and reporting.
 
  ## Topic: Palmora Group Human Resources Analysis
 
@@ -29,7 +29,8 @@ EDA involved the exploration of the available data to answer some questions abou
 
   
 ###  Data Analysis
-This is the part where I 
+This is the section I would like to include some lines of code and visuals used  during the analysis.
+
 
 
 
