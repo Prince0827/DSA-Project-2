@@ -34,4 +34,6 @@ This is the section I would like to include some lines of code and visuals used 
 
 
 
+<img width="199" height="107" alt="Screenshot 2025-08-15 131158" src="https://github.com/user-attachments/assets/9cc35041-93dc-4d0a-996f-a428d2fcb913" />
 
+<img width="1164" height="324" alt="Screenshot 2025-08-15 132709" src="https://github.com/user-attachments/assets/807bfd79-a3eb-4b70-94e5-53aca79f499c" />
